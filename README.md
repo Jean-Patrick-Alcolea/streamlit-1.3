@@ -2,4 +2,4 @@
 
 ## 🎯 Objectif
 
-Creer une page basic sur streamlit et la partager sur le cloud
+Créer une page basique sur streamlit et la partager sur le cloud
