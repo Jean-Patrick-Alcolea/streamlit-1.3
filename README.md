@@ -1,4 +1,4 @@
-# ⚙️ Projets streamlit pour la WILD CODE SCHOOL
+# ⚙️ Projet streamlit pour la WILD CODE SCHOOL
 
 ## 🎯 Objectif
 
